@@ -1,0 +1,94 @@
+h1
+    {color:  #810000;
+	font size: 100px;
+	text-align: center;
+}
+
+#intro {
+	text-align: justify;
+ }
+
+ h2 {color:  #810000;
+     line-height: 1.8;
+ 	 font-size: 40px;
+ 	 text-align: center;
+ }    
+
+ h3 {color:  #810000;
+ 	text-align: center;
+	}
+
+h4  {color:  #810000;
+   text-align: center;
+    }
+
+
+ body {
+ 	background-color: #FBF4E9;
+ 	background-image: url(https://besthqwallpapers.com/Uploads/16-5-2019/92276/thumb2-flag-of-morocco-4k-grunge-art-rhombus-grunge-texture-morocco-flag.jpg);
+ }
+
+
+p {text-align: center;
+}
+
+a: hover {
+	text text-decoration: none;
+	color:  black;
+	font-size:  20px;
+	transition:  font size 1s
+}
+#image-1 {
+	width: 200px;
+
+  }
+
+  .container{
+  	width: 1000px;
+  	margin: 20px auto;
+  }
+	
+  .card-white {
+  		background-color: darkred;
+  		padding: 18px 30px;
+  		border border-radius: 10px;
+  		box-shadow: 0px 15px 30px rgba(50, 50, 50, 0.3);
+  		text-align: center;
+  		margin: 20px 0;
+  }
+
+
+.image-rounded {
+	border-radius: 50%;
+}
+  
+.card-large  {
+			background-color:#F9F3DF;
+	      	border-radius:100px;
+	      	padding: 50px 35px;
+	      	box-shadow: 30px 30px 400px rgba(204,0, 0, 0.7);"
+	     
+	       }
+
+
+	       /* MEDIA QUERIES */
+
+	      @media (min-width:  576px) and (max-width:  1400px) {																							
+	       .container {
+	      	width: 100%; 
+		    }
+		  }
+#text-intro { 
+			font-weight: bold;
+			font-family: 'Andada Pro', serif;
+			}
+
+.zoom:hover { font-size: 90px;
+
+			}
+
+.zoom2:hover { font-size: 90px; 
+			}
+
+
+
